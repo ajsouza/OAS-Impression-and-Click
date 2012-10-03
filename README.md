@@ -1,5 +1,5 @@
-#Generate Impressions and Clicks for OAS
-I recently had a situation in which I was doing some integration testing of OAS and needed to generate some impression and click data, however, as I am restricted to a non-production environment there is generally no impressions and clicks for the campaigns being generated. The oas.php script is a quick and easy way of generating some random impressions and clicks for a given set of pages. Additional info forthcoming on my [blog](http://openadstream.blogspot.com/)
+#Generate Impressions and Clicks for Open AdStream
+I recently had a situation in which I was doing some integration testing of OAS and needed to generate some impression and click data, however, as I am restricted to a non-production environment there is generally no impressions and clicks for the campaigns being generated. The ImpClickGenerate.php script is a quick and easy way of generating some random impressions and clicks for a given set of pages. Additional info forthcoming on my [blog](http://openadstream.blogspot.com/)
 
 Sample Usage
 ============ 
